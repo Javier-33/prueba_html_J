@@ -6,3 +6,6 @@ Proyecto web básico de práctica.
 - `index.html` – página principal
 - `css/estilos.css` – estilos
 - `js/app.js` – interactividad
+
+## Autor
+Javier Viñan - UTPL
